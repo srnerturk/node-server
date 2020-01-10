@@ -1,5 +1,8 @@
 {
   "name": "nodeserver",
+  "scripts": {
+    "start": "node app.js"
+  },
   "version": "1.0.0",
   "description": "node server app",
   "main": "index.js",
